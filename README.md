@@ -14,11 +14,11 @@ Head pose estimation from a single image is a challenging problem. Head pose is 
 
 * Just Download the github repository and you will find all the used files inside it.
 * To run the project you will need to use those 4 commands
-*[!pip install mediapipe]
-*[!pip install protobuf==3.20.]
-*[!pip install opencv-python]
-*[!pip install opencv-contrib-python]
-*[!pip install "opencv-python-headless<4.3"]
+*[!pip install mediapipe]*
+*[!pip install protobuf==3.20.]*
+*[!pip install opencv-python]*
+*[!pip install opencv-contrib-python]*
+*[!pip install "opencv-python-headless<4.3"]*
 
 ## Steps
 * Download the AFLW2000-3D => [Link!](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/Database/AFLW2000-3D.zip )
@@ -31,8 +31,12 @@ Head pose estimation from a single image is a challenging problem. Head pose is 
 
 ## Results
 
-* ![Face Mesh Points](https://github.com/shrookehab/Head-Pose-Estimation/blob/main/Results/index.png)
-* [Head-Pose-Detection-Video]()
+* Face Mesh Points
+![](https://github.com/shrookehab/Head-Pose-Estimation/blob/main/Results/index.png)
+* Predicted Yaw, Pitch and Roll of the face
+![](https://github.com/shrookehab/Head-Pose-Estimation/blob/main/Results/index1.png)
+* Head-Pose-Detection-Video
+![](https://drive.google.com/file/d/1p42KzJftC_R-5eoy7RJAHHuopQNKMMzB/view?usp=sharing)
 
 ## Author 
 
