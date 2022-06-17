@@ -32,11 +32,15 @@ Head pose estimation from a single image is a challenging problem. Head pose is 
 ## Results
 
 * Face Mesh Points
+
 ![](https://github.com/shrookehab/Head-Pose-Estimation/blob/main/Results/index.png)
+
 * Predicted Yaw, Pitch and Roll of the face
+
 ![](https://github.com/shrookehab/Head-Pose-Estimation/blob/main/Results/index1.png)
-* Head-Pose-Detection-Video
-![](https://drive.google.com/file/d/1p42KzJftC_R-5eoy7RJAHHuopQNKMMzB/view?usp=sharing)
+
+* [Head-Pose-Detection-Video](https://drive.google.com/file/d/1p42KzJftC_R-5eoy7RJAHHuopQNKMMzB/view?usp=sharing)
+
 
 ## Author 
 
